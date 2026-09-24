@@ -1,0 +1,16 @@
+# Núcleo
+numpy>=1.26
+pandas>=2.1
+pyarrow>=14
+requests>=2.31
+
+# Gráficos e dashboard
+plotly>=5.24
+kaleido>=1.0          # exportar PNG (precisa de um Google Chrome instalado)
+streamlit>=1.50
+
+# Notebook e testes
+jupyterlab>=4.0
+ipykernel>=6.0
+nbformat>=5.9
+pytest>=8.0

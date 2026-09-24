@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Trecho reduzido do boletim de preços (SPRD) da B3 de 12/01/2026, no mesmo formato do arquivo original. -->
+<Document xmlns="urn:bvmf.052.01.xsd">
+  <BizFileHdr>
+    <Xchg>
+      <BizGrp>
+        <Document xmlns="urn:bvmf.217.01.xsd">
+          <PricRpt>
+            <TradDt><Dt>2026-01-12</Dt></TradDt>
+            <SctyId><TckrSymb>DI1F27</TckrSymb></SctyId>
+            <FinInstrmId><OthrId><Id>409606</Id><Tp><Prtry>8</Prtry></Tp></OthrId></FinInstrmId>
+            <TradDtls/>
+            <FinInstrmAttrbts>
+              <OpnIntrst>5495596</OpnIntrst>
+              <LastPric Ccy="BRL">13.73</LastPric>
+              <AdjstdQt Ccy="BRL">88324.26</AdjstdQt>
+              <AdjstdQtTax Ccy="BRL">13.741</AdjstdQtTax>
+              <PrvsAdjstdQt Ccy="BRL">88311.27</PrvsAdjstdQt>
+              <PrvsAdjstdQtTax Ccy="BRL">13.758</PrvsAdjstdQtTax>
+            </FinInstrmAttrbts>
+          </PricRpt>
+        </Document>
+      </BizGrp>
+      <BizGrp>
+        <Document xmlns="urn:bvmf.217.01.xsd">
+          <PricRpt>
+            <TradDt><Dt>2026-01-12</Dt></TradDt>
+            <SctyId><TckrSymb>DI1N26</TckrSymb></SctyId>
+            <FinInstrmAttrbts>
+              <OpnIntrst>3855281</OpnIntrst>
+              <AdjstdQt Ccy="BRL">93952.83</AdjstdQt>
+              <AdjstdQtTax Ccy="BRL">14.512</AdjstdQtTax>
+            </FinInstrmAttrbts>
+          </PricRpt>
+        </Document>
+      </BizGrp>
+      <BizGrp>
+        <Document xmlns="urn:bvmf.217.01.xsd">
+          <PricRpt>
+            <TradDt><Dt>2026-01-12</Dt></TradDt>
+            <SctyId><TckrSymb>DOLG26</TckrSymb></SctyId>
+            <FinInstrmAttrbts>
+              <OpnIntrst>850000</OpnIntrst>
+              <AdjstdQt Ccy="BRL">5400.00</AdjstdQt>
+            </FinInstrmAttrbts>
+          </PricRpt>
+        </Document>
+      </BizGrp>
+      <BizGrp>
+        <Document xmlns="urn:bvmf.217.01.xsd">
+          <PricRpt>
+            <TradDt><Dt>2026-01-12</Dt></TradDt>
+            <SctyId><TckrSymb>DI1F27C013500</TckrSymb></SctyId>
+            <FinInstrmAttrbts>
+              <AdjstdQt Ccy="BRL">12.50</AdjstdQt>
+            </FinInstrmAttrbts>
+          </PricRpt>
+        </Document>
+      </BizGrp>
+    </Xchg>
+  </BizFileHdr>
+</Document>
